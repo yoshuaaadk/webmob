@@ -32,6 +32,7 @@ self.addEventListener('install', function(event) {
         './icon-fonts/ElegantIcons.woff',
         './icon-fonts/ElegantIcons.ttf',
         './icon-fonts/fontawesome-webfont.woff2',
+        './icon-fonts/fontawesome-webfont.woff?v=4.7.0',
         'https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2',
         'https://fonts.gstatic.com/s/poppins/v9/pxiEyp8kv8JHgFVrJJfecg.woff2',
         'https://fonts.gstatic.com/s/poppins/v9/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2',
