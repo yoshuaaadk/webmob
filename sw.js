@@ -27,6 +27,8 @@ self.addEventListener('install', function(event) {
         './js/main.js',
         './js/fresco.min.js',
         './img/nasa/home.jpg',
+        './img/nasa/home2.jpg',
+        './img/nasa/home3.jpg',
         './img/nasa/cat-eye.jpg',
         './img/nasa/Analemma-Moon.jpg',
         './img/nasa/Venere-Mercuri.jpg',
