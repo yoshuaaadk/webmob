@@ -5,7 +5,8 @@ window.addEventListener('beforeinstallprompt', function(event) {
   console.log('beforeinstallprompt fired');
   event.preventDefault();
   deferredPrompt = event;
-  return true;
+  showInstallPromotion();
+  //return false;
 });
 
 if (!window.Promise) {
