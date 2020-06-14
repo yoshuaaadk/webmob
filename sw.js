@@ -20,6 +20,7 @@ self.addEventListener('install', function(event) {
         './css/font-awesome.min.css',
         './css/elegant-icons.css',
         './css/fresco.css',
+        './css/owl.carousel.min.css',
         './js/vendor/jquery-3.2.1.min.js',
         './js/bootstrap.min.js',
         './js/owl.carousel.min.js',
