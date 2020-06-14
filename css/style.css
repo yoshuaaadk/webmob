@@ -60,6 +60,7 @@ a:hover, a:focus {
 ul, ol {
 	padding: 10;
 	margin: 10;
+	color: #bfbfbf;
 }
 @media (min-width: 1200px) {
 	.container {
@@ -841,7 +842,7 @@ ul, ol {
 @media (max-width: 576px) {
 	.feature-blog {
 		height: auto;
-		padding: 120px 0;
+		padding: 50px 0;
 	}
 }
 .feature-blog .fb-cata {
@@ -852,8 +853,8 @@ ul, ol {
 	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	color: #fff;
-	background: #242deb;
+	color: #ffffff;
+	background: #111111;
 }
 .feature-blog h2 {
 	font-size: 80px;
@@ -880,7 +881,7 @@ ul, ol {
 	font-size: 18px;
 	margin-bottom: 35px;
 	position: relative;
-	max-width: 515px;
+	/*max-width: 515px;*/
 }
 .feature-blog .site-btn {
 	min-width: 190px;
