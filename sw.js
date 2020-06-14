@@ -27,6 +27,7 @@ self.addEventListener('install', function(event) {
         './js/fresco.min.js',
         './img/nasa/home.jpg',
         './img/cs.png',
+        './img/lowgo.png',
         'https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i&display=swap',
         'https://fonts.googleapis.com/css?family=Roboto:400,400i,700&display=swap',
         './icon-fonts/ElegantIcons.woff',
