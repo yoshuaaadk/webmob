@@ -43,8 +43,8 @@
       "type": "image/png"
     }
   ],
-  "start_url": "./index.html",
-  "Scope": "/",
+  "start_url": "./",
+  "Scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#b8c6d2",
